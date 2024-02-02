@@ -7,7 +7,8 @@ int main()
     {
         fn=n/2;
     }
-    else{
+    else
+    {
         fn=((n+1)/2)*(-1);
     }
     printf("%lld\n",fn);
